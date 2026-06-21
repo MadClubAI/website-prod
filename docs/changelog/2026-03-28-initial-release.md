@@ -7,7 +7,7 @@
 
 I am absolutely thrilled to announce the official launch of **MadClub**! This initial release brings my vision to life: an incredible platform where you can craft your very own AI-driven debates and explore fascinating scenarios. It's been a long journey, and I can't wait for you to dive in!
 
-Built with ❤️ by **Liam Manesh**. Come say hi on [LinkedIn](https://www.linkedin.com/in/liammanesh) and [Twitter](https://twitter.com/liammanesh).
+Built with ❤️ by **Moein Manesh**. Come say hi on [LinkedIn](https://www.linkedin.com/in/moeinmanesh) and [Twitter](https://twitter.com/moeinmanesh).
 
 ## 🚀 Cool Features in This Release
 
