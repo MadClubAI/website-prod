@@ -1,7 +1,14 @@
 [
   {
-    "slug": "2026-03-28-initial-release",
-    "date": "2026-03-28",
+    "slug": "2026-06-25-smarter-rooms-and-use-cases",
+    "date": "2026-06-25",
+    "version": "v0.2",
+    "title": "Smarter AI Debate Rooms, Use Cases, and Referrals",
+    "tags": ["feature", "improvement"]
+  },
+  {
+    "slug": "2026-06-21-initial-release",
+    "date": "2026-06-21",
     "version": "v0.1",
     "title": "Initial Release — MadClub is Live",
     "tags": ["release", "feature"]
